@@ -1,0 +1,771 @@
+
+
+10.19.2020 monday
+1st of 4 weeks of four tens monday-thursday.
+pressroll1 would not come up. ran cold deck first 1.5hrs.
+
+10.15.2020 thursday
+autocenter quit working. kyle adjusted it. it worked for a while but started malfunctioning again.
+
+10.13.2020 tuesday
+told kyle #1pressroll very slow coming up. kyle advised repair has been scheduled.
+
+for safety committee: securing handrail along infeed trough by welding to the I-beam.
+repair and secure/reinforce handrail along catwalk above ring drive.
+pressroll#1 has been malfunctioning for over a year.
+
+10.02 friday
+aaron broke loghaul drivechain on a huge log while trying to reverse because it was stuck. this log was maybe 45"x38' with some 6-8" knots which i observed on the top side. dont know about the rest.
+When I tried to reverse, the drive gave up and sagged back the way it does now that kyle has installed that current diverter thing. before it would have kicked out. then when i tried again it broke the drivechain.
+988f one of the prongs on the block heater plug broke off.
+
+09.27.2020 sunday
+Drove the boat the other day 3hrs. Throttle is malfunctioning. It is a safety hazard. Brought it up with Dave and he did not offer to take any action about it.
+got the 988f back from the shop guys in mid september.
+new brakes
+new ladders both sides
+now when you park it and engage the safety switch under left arm rest, machine turns ever so slowly to the right. safety hazard?
+
+9.09.2020 wed
+collar fell off pin at end of rod on 2nd press roll. saw it in the bark on top of the pressroll frame. alex and gary came up and put in a new pin and collar.
+used the old pin to hammer in the square pin on the sprocket at the head of the log haul trough.
+
+9.02.2020 wed
+alex put in new plexiglass on east side barker booth window.
+
+9.01.2020 tue
+cradle drive kicked out. first time i think since kyle installed the electric device. unless it kicked out the four days when josh was running it.
+aaron broke infeed deck drive chain.
+
+8.31.2020 mon
+barker hydraulics kicking out. 3 times before 07:15.
+
+8.27.2030 thu
+Cradle chain drive kicked out at break. called kyle. Don't know if he got to check the code or not.
+
+8.17.2020 mon
+aaron broke infeed deck drive chain
+aaron ran 988F right side ladder into a log and bent it badly.
+
+8.14.2029 fri
+pressrolls both lost pressure and died.
+
+8.13.2020 thu aaron broke infeed deck drive chain
+
+8.11.2020 tue
+millwrights put new cable to ring yesterday. this morning it did what it'sbeen doing. autocenter is on. drop #1 prssroll on a log and the ring will not center right away.
+aaron broke infeed log deck drive chain
+
+8.10.2020 mon
+auto center cable to ring snapped at ring. auto center had been acting up for a week or two. would occasionally not center upon dropping 1st pressroll
+
+8.7.2020 fri
+0703 - Aaron ran a log into #1 cold deck kicker when Anter was trying to kick a log whose forward end was in the trough still. Anter was trying to drop the log in and had the forward end in the trough when Aaron started the barker. Anter saw this and kicked the log on the cold deck but the forward end did not want to get out of the trough. As Aaron was sending a log out, everything was momentarily inactive so Aaron ran the cold deck out and continued to send a log from the barker. As he was doing this though, Anter sent out the kickers to make the forward end of that log get out of the trough. Aaron's log ran into the #1 kicker at 80% barker feed drive speed. Went over to talk with Anter and go over what happened.
+    Decksaw 1st 40 stop button still defective. Has to be pressed several times for it to be able to turn on. Happening several times per day.
+    decksaw end bearing was smoking. alex said chain was too tight. replace bearing. after that chain coming off like every other cut.
+    2nd 40 kicking out maybe once per hour.
+    
+
+8.3.2020 mon
+anter bent the bar. was cutting. struggling to get saw back up out of the log. had a second log behind. 1st 40 was running the whole time and a third log came and rammed the first two.
+1st 40 momentarily didn't work.has been happening the last few weeks start button light not coming on qhen button is pressed. ususally when it's kicked out the light will come on. light not coming on usually associated with dirtin the deckssaw 1st 40 stop button?
+aaron broke infeed deck drive chain.
+1st 40 wont work 2:20pm. called Anter in decksaw told him my fwd and reverse both did not work and the light inside the button would not turn on when pressed. I asked him if he could start the conveyor and he did it but had to jiggle his stop button a couple times before it would go.
+
+7.31.2020 fri
+broke 1st 40 drive chain. kyle put new drive chain on.
+
+7.30.2020 thu
+leaving at 2pm for dentist
+1st 40 quit working. thought it was kicked out  kyle said it was the stop button in the decksaw booth has dirt in it needs replaced. i noted that my start button light did not come on when i hit it. probably because decksaw's stop-button was engaged while I was trying to start it?
+
+7.29.2029 wed
+anter bent the lifter pinstop guide by running a three-log train into it.
+
+7.28.2020 tue
+anter bent the bar
+
+7.24.2020 fri
+
+
+7.23.2020 thu
+josh broke drive chain on infeed log deck. 07:07. was broken when he arrived. alex fixed.
+
+
+7.22.2020 wed
+1st 40 forward button failing.
+upper grates in front of ring need repair and welding.
+alex came and secured the grates with the rope they use to lift tools without going down and up the stairs
+1st pressroll still slow to come up. regularly obstructs logs when they are bigger diameter than the one currently under it.
+
+7.20.2020 mon
+new cold deck foot switch in barker.
+diesel pump nozzle not working again 2nd time.
+
+7.17.2020 fri
+988f front brakes have been disconnected. brake alarm no longer sounding. ebrake switch no longer pops out. no more brake fade
+but it's running solely on rear brakes and they are weak.
+
+7.15.2020 wed
+called kyle about various barker issues. he came up and i mentioned the following:
+pressroll1 goes down faster and comes up slower
+pressroll2 does not levitate
+auto center hunting continually
+cradle drive kicks out multiple times per day sometimes many times per day, adding many inputs to operator's work load and causing me pain in my fingers.
+
+kyle fixed pressroll2 by changing out the valve which was the incorrect valve.
+he fixed the auto center
+he looked at pressroll1 and updated me what they think the issue is.
+told me to let him know when cradle drive kicks out so he can get the code. said its probably a voltage spike when the conveyor is pushed or pulled.
+
+told Carl and the new mechanic that the brakes in 988f are very bad. 
+
+7.10.2020 fri 
+infeed deck drive chain broke. not sure which day.
+
+7.9.2020 thu
+letourneau???
+barker working great. new knife tips?
+josh sent to greenchain early. sarge feeding me in barker.
+0953 - 100mbf old growth in cold deck
+#2 cold deck pin solenoid valve still bad
+
+7.8.2020 wed
+cold deck footswitch button getting worse. broken inside?
+finished barking one of two rows old growth raft. each containing 500mbf approx.
+right front wheel motor smoked on letourneau. totaled?
+0913 - new barker ring drive belt last night. working great. not bogging down like yesterday
+
+7.7.2020 tue
+988f brakes getting worse. they fade and you coast before they catch. told dave.
+
+7.6.2020 mon
+aaron broke infeed deck drive chain.
+kyle and gary discover hydraulic leaks while fixing it.
+josh came after lunch or 1st break to start working with barker and loader full time.
+told carl about 988f brakes. he said its a 2 week job. dave says maybe next week they can do that.
+
+
+7.1.2020 wed
+cold deck footswitch going out.
+more repairs done on pressroll1 frame.
+
+off tuesday
+l8sa
+6.29.2020 mon
+
+6.26.2020 fri
+...broke hose on loader. lost 20 gallons hydraulic oil fixed by carl and the new mechanic.
+...broke drive chain. Alex put new drive chain, said new chain costs 3 or 4 hundred.
+barked 2nd growth fir. made cold deck all day with sarge because they used cold deck the day before.
+
+8.25.2020 thu
+took sick day. they ran cold deck. i was hoping someone else would be getting hours on that barker because josh needs to learn and elias could help diagnose issues.
+attended 3pm safety meeting with billy, tre, jared, andy, diane, sam, jlynn. discussed narcan for heroin overdoses and associated liability issues.
+
+6.24.2020 wed
+aaron broke infeed deck drive chain
+
+6.23.2020 tue
+barking 2nd growth fir. mill cutting hemlock cold deck.
+
+sick hours paid out for fri and mon and last hour of thu.
+missed friday and monday. Billy broke loghaul drivechain friday as soon as he tried to run the infeed in reverse.
+
+6.18.2020 thu
+left frustrated at 1400 
+
+6.17.2020 wed
+broke loghaul drivechain
+broke infeed deck drivechain.
+1316 - 203rd log
+0900 - 100th log
+deck528 old g fir cold decking while running hemlock.
+
+6.16.2020 tue 
+342 logs
+1332 - 302nd log
+1130 - 222nd log
+0850 - 100th log
+broke loghaul drive chain.
+
+6.15.2020 mon
+started 77
+finished 76
+422 logs
+333 logs by lunch
+
+6.12.2020 fri payday
+309 logs
+row 76 nearly empty. this is third row of hemlock. 
+1247 - 198th log
+0917 - 101st log
+
+6.11.2020 thu
+251 logs
+0920 - 92nd log
+new collar on south side of alligator chain1 back shaft is working its way off. told alex.
+
+6.10.2020 wed
+took out barker trash
+log haul drive chain broke
+229 logs
+1101 - 75th log
+pressroll1 pillars broken. straight across just under the base of where the bumpers would be sitting if they were there. alex welded them. down 3 hrs. more welding to do.
+upper grates falling apart (operator side)
+gate bottom hinge still broken.
+post that gate hangs on is busted.
+
+6.9.2020 tue
+164 logs
+0826 - deck saw down. last log 33 minutes ago.
+
+6.8.2020 mon
+cleaned bark from under infeed
+239 logs
+1420 - 216th log
+1032 - 105th log
+
+6.5.2020 fri
+292 logs
+1230 - 1st 40 still kicking out.
+1200 - 1st 40 belt broke. 2 left and one used one.
+1045 - 200th log
+0819 - 101st log
+
+6.4.2020 thu
+1st 40 kicking out many times. motor stalled buzzing/humming but not turning. chain too long. hung up.
+1243 - 111th log
+
+6.3.2020 wed
+1122 - 127th log
+1st 40 belt sliding on motor pulley. put on a fresh one and set the old one aside.
+
+6.2.2020 tue
+1500 - 08:10 210
+1421 - 200th log
+1246 - 155th log (not counting cold deck ran thru barker)
+0949 - 103rd log
+0845 - starting barking hem. sarge feeding hem and cold deck on barker infeed. stopwatch counting only unbarked logs so as not to double-count colddeck logs.
+0630 - pressroll1 pin had worked its way out quite a bit towards east. alex hammered it back in a put a new collar on it (west). also fixed loghaul drivechain. pressroll2 pin just noticed pin has threaded end west exposed. alex said needs nut. doesn't have nut. said keep an eye on it.
+
+6.1.2020 mon
+1450 - broke infeed loghaul drivechain
+stopwatch: 8:09 288
+
+5.29 fri inventory
+8:17 115
+
+5.28 thu - 
+1500 - 8:25 183
+183 / (8 + (25 / 60)) = 
+1121 - 4:47 125
+125 / (4 + (47 / 60)) = 
+1030 - 100th log
+100 / 4 = 25 logs per hour
+(Dave said don't make cold deck)
+Packed some bites from row1 by freeway.
+Running 2nd growth thru mon 6/1 and then old growth.
+
+5.27.wed - 
+left infeed deck empty for millwrights.
+
+5.26.2020 tue - 
+0955 - 3:08 116
+0906 - 2:19 102
+100th log around 0900
+100 / 2.5 = 40 logs per hour
+new gearbox with different style sprocket. looks like same size.
+
+5.22.2020 fri - 
+0924 - stopwatch:
+8 laps in 2hrs:34min. started lap every time i got in loader o load infeed deck. not counting the time when i had 3 in the trough and had to put up 2 bites cold deck. one of the laps included fueling.
+0730 - 988f reversing with a load and coming to a stop. middle gage on left side started blinking and showing ten bars. stopped when i stopped moving
+0700 - fueled 988f
+0645 - #1 cold deck kicker staring to protrude. 1 log got xaught up on it.
+gate by #2 pressroll bottom hinge busted so i tied it to the catwalk rail. removed east plexiglass from barker booth because it was broken and ugly since Ronin.
+
+5.18.2020 mon - 
+broke infeed loghaul drivechain. alex installed new chain.
+
+5.14.2020 thu - 
+0855 - ran a log into slow rising pressroll1 and broke loghaul drivechain.
+
+5.13.2020 wed - 
+dave pulled raft.
+haven't switched to old growth red X yet. but have some barked and ready for when we run out of 2nd growth.
+
+5.12.2020 tue - 
+988f brakes going out when backing out of a pile and stopping to go back in.
+
+5.11.2020 mon - 
+0730 - infeed deck #2pinstop disconnected from cylinder. threaded end of shaft exposed and cylinder cockeyed. pinstop was pinned against a log and when dave used the letourneau to push the log back the pinstop came down and wouldn't go up.
+
+5.7.2020 fri - 
+0635 - 
+2pcs oversize
+deck 209 80mbf
+cold deck 80mbf
+
+5.6.2020 thu - 
+helped cynthia and sam shovel out sawdust from barker basement. oily rainwater.
+1430 - 
+100mbf of old growth raft laid out being scaled.
+opened 209
+208 all done
+0634 - 
+15mbf - 208
+50mbf - 209
+10mbf - 900
+18mbf - middle
+180mbf - cold deck
+oversize cold deck:
+34"x12'
+34"x16'
+33"x26'
+
+5.6.2020 wed - 
+1004 - cradle chain kicked out.
+0844 - cradle chain kicked out.
+0814 - cradle chain kicked out.
+0701 - cradle chain kicked out.
+
+5.4.2020 mon - 
+1453 - cradle chain kicked out
+1300 - #4 cold deck chain came off sprocket on trough side. #3 channel is bent toward the mill still from when they fixed the #3 channel.
+1250 - reversing cradlechain, broke log haul drive chain.
+1238 - cradle drive kicked out.
+1234 - pressroll1 won't come up.
+1105 - cradle chain kicked out.
+1100 - pressroll1 dead. alex had to smack it with a log to get it going. he put grease and wd40.
+06:35 - pressroll1 came up when i fiddled with the knifes on and off. alex put grease on it
+06:30 - pressroll1 wont come up. dave opened d44 with 60mbf in it. d43 nearly gone from middle. 988f still being worked on. last time shut down had to be killed by pulling bacj the throttle pedal with left hand and pulling back the tilt toggle simultaneously.
+
+5.1.2020 fri - payday
+new wear plates on 988f fork tips and welds on upper side where cracking.
+left 150mbf in cold deck
+11:30 - 80mbf in cold deck
+09:10 - 15mbf in cold deck
+06:40 - packed out of d43 2 bites.
+only 20mbf in cold deck after feeding some up
+
+4.30.2020 thu - 
+10:48 - 
+    cold deck:
+10mbf mixed row1
+12mbf raft row2 
+    middle: 
+15mbf raft row1
+5mbf d43 row2
+2mbf d900 row3
+    rows: 
+100mbf d43 row1
+3mbf xarms row2
+250mbf new raft row3
+2mbf d44 row4
+
+09:10 - Truckshop Mike's fingers got smashed by the shovel while working with a forklift mast.
+09:00 - alex greased end sprockets on ramp side of infeed deck.
+8:25 - aaron broke infeed deck drive chain. very few logs on the deck
+ seems to be breaking too easily.. told alex about the drivechain popping back with the turn of every sprocket tooth, maybe this is the cause. Ronin was complaning about this in March and I saw it too. I don't remember noticing it before March. this happens whether the deck is loaded or not. with a heavy load on I imagine this is very hard on the drive chain.
+06:40 - fed some cold deck. have maybe3 hrs in row 1, 3 bites of mixed green and 8 bites reman in middle
+06:15 - inventory today.
+
+4.29.2020 wed - 
+13:20 - alex came to work on the coupling.
+12:40 - cold deck vibrates when running fwd and reverse. told kyle. he said it's probably the coupling between the motor and gearbox and said not to run it.
+09:50 - training mike on loader. he put up a few bites on the barker infeed. nothing dropped but one long one was too close to the building and one 14ft was barely on 2 chains. another bite had one sticking up on one side.
+08:00 - aaron broke infeed deck drive chain. putting big logs on and trying to roll them far they dont roll they just push the chain and #3 chain kinked at the sproket and hung up against the trough.
+06:51 - counted 101 logs in cold deck.
+
+4.28.2020 tue -
+i spotted three infeed deck drive chains in the metal bin by the lower shop where before there were two.
+14:53 - 1.1 rows of cold deck remaining. lots of reman and big diameter stuff to run wed and thurs. 
+13:30 - emptied blue logyard dumpster
+12:55 - fed only cold deck so far today except for barking like 4 logs. by the end of today might have row 1 and a tiny bit in row 2.
+12:00 - helping cynthia feed slash into chipper conveyor a little so I can borrow her #17 forklift to empty logyard dumpster.
+09:40 - trained resaw mike on loader feeding cold deck till lunch. he fed up like 20 logs and dropped a pecker pole that shot out toward the mill under the #4 chain run.
+07:26 - fed up 2 of 3 cold deck oversize.
+06:40 - fed up 1 of 3 cold deck oversize. Have one long oversize with bark. New raft came in. Have 2.5 rows cold deck.
+
+4.24.2020 fri - 
+15:00 - 08:00 to 13:00
+159 logs / 6h:56m 
+159 logs / 416m 
+159 logs / 6.9h
+23 logs per hour
+including all breaks
+
+14:30 - south side wear 
+strip on 1st 40 broke apart and 
+came away and hung up the chain 
+when in reverse.
+13:42 - and earlier... 1st 40 
+reverse not working. 
+i think head sprocket skipping
+ when running in reverse. chain 
+jolts backand forth but wont run 
+in reverse. foward works fine.
+12:18 - from 08:00 to 12:18, 
+105 logs in 4hr:16m 
+105 logs in 256m
+24 logs per hour
+including 1st break and lunch
+
+06:43 - came into the barker and
+ the cold deck infeed deck and
+ 1st 40 were off at their breakers.
+sat in the barker and tried to run 
+te infeed deck unsuccesfully
+ and found the breakers off 
+downstairs.
+05:51 - pressroll2 still doesnt have the
+ ability to levitate by putting 
+the toggle switch in neutral
+ position. sometimes to hover
+ over a log i do up down up down
+ rapidly on pressroll2 to keep it
+ low over a log and sometime i brong
+ the pressrol down on a log to 
+jarr it loose when it has stopped.
+
+4.23.2020 thu - 
+broke log haul drive chain at 13:40. 
+down till after break.
+14:54 - from 10:30 to 14:54 not
+ counting lunch and break 242 
+logs in 3h:29m.
+12:37 - stopwatch from 10:30 till 
+now reads: 102 logs in 
+1h:29m
+09:30 - metal first and the bark 
+causing bark conveyor to be shut 
+down often throughout 1st quarter.
+07:43- i have barely run the barker.
+ the bark conveyor has turned off 
+many times. 988f 
+working fine. mixed in
+ a bite from pecker pole pile into
+ both middle piles one bite into
+ each. small metal flakes in the 
+hog conveyor yesterday tripping 
+the metal detector and probably 
+now too.
+
+06:30 - 
+...lots of metal in the bark conveyor
+ this morning. a grinding wheel
+ and some other round thing i saw
+ from above when i first came up
+ this morning.
+... alligator chain2 was clean and
+ fixed. found sledge hammer in the
+ bark next to northwest corner of
+ alligator chain2. 
+
+
+4.22.2020 wed - 
+07:20 #2 alligator chain 2 pins 
+sticking out side of chain. had a 
+big log on the loghaul and a big 
+one in the ring. had to back it up 
+to bark more and some sprocket 
+somewhere goes brrrrrr. probably 
+the big alligator drive sprocket 
+that is driven by the gearbox by the 
+frequency of the skips. was a 
+little smokey. wouldn't go forward.
+Trey head it from the deck saw and 
+alex was there before I could call 
+him. track on southeast of #2 alligtor 
+chain ran back into barker ring 
+and knocked off all of the outer 
+row of bolts on the mill side of 
+the barker ring.
+
+4.21.2020 tue -
+13:10 - millwrights appear to be done 
+with the barker.
+10:30 - 1st pressroll failed again. 
+called millwrights. fed cold deck 
+till lunch. also cleaned under infeed 
+deck.
+10:05 - 1st pressroll just came up. 
+09:56 - 1st pressroll been causing short 
+delays. currently failing to go up. 
+08:30 fed up the weird log backwards
+ onto 2nd 40. four halfs with bark
+ remaining on the ground.
+
+4.20.2020 mon - 
+10:00 - pressrolls back to current
+ normal. tonight they may replace
+ #1 pressroll cylinder. used 3th 
+row of cold deck and some of row 3.
+ 1 and 2 full.
+08:00 - pressroll #1 failed to 
+raise. had to feed cold deck.
+ told kyle. kyle and alex and dustin
+ and gary came out and worked on
+ the rods on #1 presroll cylinder 
+till about 10:00.
+07:30 ish - 988f ready but still 
+needs nitrogen. toggles are smooth 
+as butter. steering and lift gear 
+been greased. everything is smooth 
+now and the brakes actually stop
+ the machine but the alarm still
+ comes on and ebrake handle pops
+ out. still come out of gear
+ pccasionally.
+06:30 988f still workin on.
+
+4.16.2020 thu - 
+06:30 - 988f started fine. no brake 
+alarm when grabbing bite from green 
+fir row and parking that bite by the 
+cold deck.
+4.15.2020 wed - 
+14:43 alex installing 
+new chain.
+13:50 infeed deck drive chain 
+broke as soon as i tried to run 
+it. 9 logs on deck avg 300 bft = 2700bft. 
+2700 * 8.5lbs = 22950lbs or 11.5 
+tons.
+13:00 aaron broke infeed deck 
+drive chain.
+06:30 988f weak 
+start. idled low at first. had to 
+give throttle. slowly revving. 
+gauges 5 1 1 1. idling at 610-650 
+rpm. turns out main lift was 
+stuck in down position. brakes 
+still fading significantly. 
+ebrake alarm comes on a lot but 
+I'm learning to brake softer when 
+switching between forward and 
+reverse and stay off the throttle 
+more also so it doesn't come on 
+as much.
+
+4.14.2020 tue - 
+07:30 - alex fixed it and ran 
+some logs.
+06:30 - log haul working. #1 press 
+roll won't come up.
+
+4.13.2020 mon -
+13:00 - log haul right side chain 
+guide came up over a cross piece 
+while running forward. 2 feet of 
+it separated. If I'd kept running 
+it would have torn a bunch more off.
+12:00 - started running. slow. 
+still acting up.
+10:50 - log haul drive chain broke 
+again.
+10:30 - barker running again
+09:25 - broke log haul drive 
+chain on same log. ran fwd 1 ft 
+and back 1 ft. broke in same spot 
+trying to reverse. something 
+hung up.
+08:30 - log haul chain broke 
+while in reverse. big bowed 
+log in the trough.
+08:10 - carl added coolant to 988f.
+07:10 - log haul chain hung up? 
+drive chain skipped some teeth.
+07:00 988f radiator steaming. 
+dave told shop.
+06:30 #1 pressroll 
+didnt want to come up.
+06:25 - 988f gauges reading funny. 
+tach showing some two digit numbers.
+
+4.10.2020 fri - aaron broke 
+infeed deck drive chain.
+aaron broke back half log 
+haul drive chain. 12:47
+shut down at 12:47 and fed cold 
+deck the rest of the day with 
+josh. millwrights working on 
+wear strips on side of log haul 
+chain and fixed both drive chains 
+today.
+
+4.9.2020 thu - allergies. emptied 
+blue garbage by truckshop and 
+firewood bin by timberdeck saw.
+
+4.8.2020 wed - aaron broke 1st 40' drive 
+chain.
+
+4.7.2020 tuesday - came in ASAP at 
+06:25 to fill the mill since colddeck
+is empty/unusable. 2nd 40 having
+ some issues. while kyle was watching
+i pointed out to him the deviated
+ track on #3 chain trough side.
+
+leaving cold deck empty. hopefully
+they can get to it tonight, but
+kyle did say it's a one guy crew.
+
+
+4.6.2020 monday - hog down till 07:03.
+
+#3 cold deck chain track is bent toward mill the last
+4 feet toward the trough. chain goes half off track 
+when running deck out. east side of track is centered
+mid chain at its trough-end.
+
+told kyle.
+
+kyle came and noticed damage on 
+the other end of #3 chain. spent 
+most of day cleaning cold deck
+with curly fry so millwrights could
+ weld. they got the end of the chain 
+run patched up.
+
+2nd 40' having issues toward end.
+
+4.3.2020 infeed deck drive chain broken twice in 
+the last month and maybe ten times during the five 
+weeks ronin was running.
+    two brand new chains full of shiny new cotter pins
+sitting in the metal bin by sawmill office.
+
+4.2.2020 asked kyle if ring drive belt tension could 
+be inscreased. Suggested Ronin might have worn the 
+belt resulting in decreased tension. When the ring 
+binds up on a rough log an inexperienced operator
+may be slow to prevent the belt rubbing on it's pulley
+and screeching and smoking.
+
+3.23.2020 #1 pressroll complete failure 
+but crept up to 100% when electrician dustin 
+came. down for >1 hr. replaced pressroll valve.
+
+ronin dropped a log out the back between the building
+and the infeed deck.
+
+stopped taking records after 11.27.2019
+11.27.2019 1st 40 had to be reset 1 time
+before 8am.
+11.26.2019 1st 40 had to be reset
+Three times.
+11.25.2019 new loghaul chain. Loghaul
+Drive chain kind of loose.
+11.22.2019 millwrights added plates under
+Loghaul return.still hanging up
+11.21.2019 aaron broke cradle feed drivechain twice. Motor doing funny back and borth thing before 1st time.
+11.20.2019 aaron broke log haul back half drive chain. Alex fixed and advised dont overfill infeed deck.
+Running old growth. High average diameter. Huge slab edger was down 30 minutes.
+11.7.2019 aaron broke infeed deck drive chain. kinked #3 deck chain at sprocket at trough. alex and gary fixed it.
+11.5.2019 aaron broke infeed deck drive chain.
+Deck not overloaded. alex fixed it.
+10.29.2019 knives slow to close all morning. One knife not closing sometimes. Reported to kyle. Need heat lamps or something
+10.24.2019 4 new drive belts on ring. alex tensioned it down so it should bog down so easily on bigger or thick-bark logs.
+cold deck vibration was fixed last night
+aaron broke infeed deck drive chain
+long pecker poles frequently left with long thin bark strip down one side.
+10.23.2019 #2 ring drive belt is snapped off. New belt ordered. Ring drive motor mount tightened so belt tension higher. On knife intermittently not closing in cold. 43degrees this morning.<br>
+Cold deck vibration noted yesterday when running. Vibration was worse at end of day today.
+Left deck empty for millwrights.
+10.9.2019 #1 pressroll slow up occasionally. Twice would not come up, only made air sound. At 10:00 noticed #4 ring drive belt off. 12:30 put it back on. One knife occasionally not closing in the morning. Tonight's low will be 35 degrees.
+At 13:03 #1 pressroll took 8.82 seconds to come up all the way off a 16 inch log.
+10.4.2019 ring frequently bogging down especially toward butt of large or thick-bark logs. #2 pressroll too fast going up and down, action is not like I remember it. neutral position doesn't work. If it's going up and you put it in neutral it will continue up. if it is going down and you put it in neutral it will keep going down.
+10.4.2019 aaron broke 1st half outside of #2 alligator chain track.  down for three hours. (#2 alligator chain guide 1st half opposite operator booth)
+10.3.2019 big boat died while pulling raft. ran out of fuel?. finished with small boat, seat is still broken.
+10.1.2019 aaron broke the overhang bar exiting the barker
+9.26.2019 sarge in loader with bite up... his sleeve caught the main lift lever and dropped bite on the end of #3 cold deck chain. broke the I-beam so the whole end was hanging by the chain
+9.18.2019 aaron broke cradle back half drive chain. Mike replaced it with a brand new chain, said the old one was shot, ready to go out at any time.
+9.16.2019 billy broke infeed deck drive chain
+09.10.2019 2 loose bolts on bearings on infeed deck drive shaft. Sump bin inflated. Alex tightened bolts.
+09.09.2019 
+09.06.2019 billy broke infeed deck drive chain
+09.04.2019 #2 pressroll fast up. Slow down. Weak holding down. Short fattys sometimes spinning under #2 pressroll while barking with tool arms at 50psi.
+09.03.2019 aaron broke trough drive chain. #2 pressroll dropping to zero between 1/3 of all logs. Ran log into #2 pressroll and broke drive chain.
+8.21.2019 gary and alex put in new bearing on bark conveyor tail end.
+8.20.2019 eric put new labels on barker control board
+8.19.2019 millwrights worked on barker all day. #2 pressroll still slow. new toggle switch for it on control board. Feels like new knives.
+08.16.2019 broke infeed deck drive chain
+08.08.2019 broke 3 belts on 1st 40. Chain stretched over the day. Millwrights fixed overnight.
+08.07.2019 new chains on 1st 40 and back log haul
+7.31.2019 cold deck motor puffed smoke end of day. dont know if it was rubbing wood. millwrights were going to look after shift. once recently too. hig pitched electric whine coming from pressroll#1. alex made it stop, said some of the rods on the pressroll cylinder are damaged.
+7.31.2019 alex fixed gary kicker top hose again. was leaking slow drip... blew air hose on one of the knives. alex fixed.
+7.26.19 broke infeed deck drive chain. alex fixed it.
+7.25.19 lost pickaroon head weeks ago. new pick recently but broke the head today. handle cracked. threw away. old pickaroon handle still good.
+7.24.19 gary kicker hydraulic hose slow leak. small wet spot on ground.
+7.22.19 in bobcat . bumped east leg of the barker outside platform which was built in 2018 i think.
+6.24.19 infeed deck drivechain broke. #5 deck chain was kinked
+6.24.19 gary kicker top hose slight leak behind crimp coming out of cylinder. #1 presroll still sluggish. sprinkler still broken
+6.20.19 back half log haul drive chain slipped off. did once recently too. hig pitched electric whine coming from pressroll#1. alex made it stop, said some of the rods on the pressroll cylinder are damaged.
+6.19.19 #1 pressrol hose blew. alex fixed and says I'm good for another couple days.
+6.12.19 #2 pressroll up hose blew same spot.
+6.4.19 infeed deck drive chain broke
+5.16.19 infeed deck drive chain broke
+5.14.19 strange piece of metal tangled up in #1 alligator chain. alex and kyle took care of it.
+5.10.19 bark bunker doors messed up
+5.8.19 cradle chain back half log haul drivechain broke. big log and a small in ring had just gone diagonal but not hung up. had pushed a big one into the mill earlier. 
+5.7.18 #4 cold deck chain two links broken. chain off sproket on conveyor side.
+5.7.19 infeed deck drive chain broke. deck 60% full
+5.2.19 infeed deck drive chain broke. overloaded deck at end of yestereday. also broke again at 14:40.
+4.26.19 avery broke the infeed deck drive chain. infeed deck was overloaded. chain repaired.
+4.25.19 broke infeed deck drive chainat 1350. sarge was feeding all day and i forgot to tell him go easy.
+4.24.19 broke infeed deck drivechain. alex said it's weak so go easy.
+4.24.19 blew lift hose on #2 pressroll again in same spot where it attaches to the valve. ran it up from cylinder instead of down so it rests on the barker frame to keep the weight of itself from kinking itself because it was jumping and flexing on compression and decompression.
+4.23.19 small shorty got stuck. alex had to bring two comealongs to get it out
+4.18.19 emptied barker trash
+4.17.19 1st 40 drive belt broke. #1 pressroll ocassionally gets stuck when allowed to drop all the way.
+4.2.19 blew no.2 pressroll up hose. big hole near valve. alex shortened it. not pressroll chafing on chafe gear and not on hose. hose worn in middle where it was rubbing.
+4.2.19 broke 1st 40 drive belt
+4.1.19 infeed deck drive chain broke. millwrights had dave push shaft west with loader.roll 1 occasionally blowing air when down.
+3.29.19 infeed deck drive chain broke billy
+3.27.19 bent the decksaw bar
+3.15.19 broke infeed deck drive chain twice
+3.4.19 infeed log haul drive chain still skipping occassionally on big logs.
+3.1.19 infeed deck drive chain broke
+2.22.19 infeed log haul drive chain broke. log haul chain shortened. new drive chain.
+2.13.19 noticed pin coming out at ring knuckle on positioner cylinder. fixed.
+2.12.19 infeed deck drive chain broke. new chain.
+12.14.18 drive chain broke infeed deck
+12.13.18 new knives, structure under number2 alligator chain repaired.
+11.29.18 #1 pressroll dropped to zero. totally failed to raise. shut down and restarted fixed it.988f right side overarm rod pin coming out. 
+11.16.18 infeed deck drive motor wont run, small metal piece broke inside, mark replaced
+11.01.18 emptied barker trash
+10.29.18 infeed deck motor smoking... replaced
+10.22.18 broke infeed deck drive chain
+10.19.18 Hydraulics kicked out. no leaks. added fluid. pressroll 1 occasionally blowing air when down.
+10.18.18 new ring drive belt (4 belts) finished hem. started fir
+10.18.18 infeed deck drive chain broke
+10.12.18 Billy infeed deck drive chain broke, took a sick-day
+10.11.18 bent infeed guidepost bar thing w/ shovel from south side when removing short log.
+10.11.18 one knife occasionally not closing.
+10.10.18 bad hose replaced on pressroll_valve1
+10.02.18 ran a log into decksaw while cutting. bent the bar. Headrigs down 20(?) minutes
+10.01.18 knocked out panel1 of plate steel guard behind ring
+9.26.18 light above welder going out. new lights north and south.
+9.21.18 ring positioner cylinder lower mount rebuilt, new cylinder
+9.20.18 blew air hose way above ring
+9.12.18 new tool arms
+8.29.18 broke infeed deck drive chain
+8.2.18 blew pinstop no. 1 infeed deck
+7.30.18 (a few months ago) new barker ring drive chain
+7.17.18 broke infeed deck drive chain
+7.9.18 all new knives
+7.6.18 Billy - broke cradle drive chain twice, log haul tail end was catching
+7.2.18 new cradle/alligator drive chain
+6.26.18 new infeed deck drive chain
+
+
+
+
+  
+  
+  
+  
+  
